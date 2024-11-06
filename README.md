@@ -6,6 +6,8 @@ https://www.openapis.org/
 
 https://github.com/public-apis/public-apis
 
+https://apilist.fun/
+
 ## Calling API Instructions
 
 Here’s a guide on different ways to call a web API using various tools and libraries in popular programming languages. Each approach includes sample code for `curl`, HTTP client libraries, and REST API calls.
