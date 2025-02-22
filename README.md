@@ -1,12 +1,32 @@
 # API-Note
 
-https://editor.swagger.io/
+<https://editor.swagger.io/>
 
-https://www.openapis.org/
+<https://www.openapis.org/>
 
-https://github.com/public-apis/public-apis
+<https://github.com/public-apis/public-apis>
 
-https://apilist.fun/
+<https://apilist.fun/>
+
+<https://apidog.com/>
+
+<https://www.postman.com/downloads/>
+
+## Cloud 
+
+<https://learn.microsoft.com/en-us/azure/api-management/api-management-gateways-overview>
+
+<https://cloud.google.com/apigee/docs/api-platform/get-started/what-apigee>
+
+## APIs
+
+<https://editor.swagger.io/>
+
+<https://github.com/public-apis/public-apis>
+
+<https://apilist.fun/>
+
+<https://cloud.google.com/apis?hl=en>
 
 ## Calling API Instructions
 
